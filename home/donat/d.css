@@ -1,9 +1,4 @@
-body{
-	@font-face {
-  font-family: 'a Apple Tea';
-  src: url(./a+Apple+Tea.woff2) format('woff2');
-}
-
+body
 	background-image: url(https://wallpapercave.com/wp/wc1688077.png);
 	-webkit-background-size: cover;
 	background-size: cover;

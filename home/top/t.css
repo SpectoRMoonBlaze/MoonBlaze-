@@ -1,7 +1,4 @@
-	@font-face {
-  font-family: 'a Apple Tea';
-  src: url(./a+Apple+Tea.woff2) format('woff2');
-}
+
 body{
 	background: url(37440.jpg);
 -webkit-background-size: cover;
