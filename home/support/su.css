@@ -1,0 +1,32 @@
+	@font-face {
+  font-family: 'a Apple Tea';
+  src: url(./a+Apple+Tea.woff2) format('woff2');
+}
+body{
+		background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(37440.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+
+.form {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: rgba(0,0,0,.7);
+	border-radius: 10px;
+}
+.font{
+	font-size: 40px;
+}
+
+.form h1 {
+	margin: 30px 100px;
+	padding: 0;
+	text-align: center;
+	color: #fff;
+	font-size: 40px;
+	text-transform: uppercase;
+}

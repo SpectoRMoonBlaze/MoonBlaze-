@@ -1,0 +1,122 @@
+@font-face {
+  font-family: 'a Apple Tea';
+  src: url(./a+Apple+Tea.woff2) format('woff2');
+}
+
+body{
+	background: url(1.jpeg);
+-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+
+}
+.block1{
+  	position: absolute;
+	top: 15%;
+	left: 10%;
+	transform: translate(-50%,-50%);
+}
+
+.block2{
+  	position: absolute;
+	top: 15%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.block3{
+  	position: absolute;
+	top: 15%;
+	left:90%;
+	transform: translate(-50%,-50%);
+}
+
+.block4{
+	border: 1px solid white;
+	border-radius: 20px;
+	height: 100px;
+	background: rgba(110,110,110,.2);
+}
+a{
+	color: white;
+}
+.block6{
+	position: absolute;
+	top: 50%;
+	right: 20%;
+}
+.block7{
+	position: absolute;
+	top: 90%;
+}
+
+.block8{
+	position: absolute;
+	top:140%;
+}
+
+.block9{
+	position: absolute;
+	top: 130%;
+}
+.block12{
+	position: absolute;
+	top: 190px;
+	right: 700px;
+}
+
+.block13{
+	position: absolute;
+	top:500px ;
+}
+
+.block14{
+position: absolute;
+right: 1%;
+}
+
+.block15{
+	height: 900px;
+position: absolute;
+right: 10%;
+top: 110%;
+}
+
+.block16{
+	height: 400px;
+position: absolute;
+top: 90%;
+}
+
+.block17{
+	position: absolute;
+	left: 58%;
+	top: 150%;
+}
+
+.block18{
+	position: absolute;
+	top: 165%;
+}
+.block19{
+	width: 1650px;
+	height:1px;
+	background: white;
+	position: absolute;
+	top: 190%;
+}
+
+.block20{
+	size: 200px;
+	position: absolute;
+	top: 200%;
+	left: 50%;
+}
+
+.block21{
+	size: 200px;
+	position: absolute;
+	top: 206%;
+	left: 50%;
+}
