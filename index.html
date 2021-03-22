@@ -11,6 +11,12 @@
 
 
 <body>
+  <?php
+  $mysqli = @new mysqli('localhost', 'root', 'root', 'basee');
+  if (mysqli_connect_errno()) {
+    echo "Подключение невозможно: ".mysqli_connect_error();
+  }
+?>
   <div class="form">
     <h1>Вход</h1>
     <div class="input-form">
